@@ -1,0 +1,11 @@
+*{border:solid}
+.Images{display:flex; flex-direction: row; justify-content: space-evenly}
+h1 {
+    color: #aA2315
+        
+}
+body {
+    background-image: url("bg.jpeg");
+    background-repeat: no-repeat;
+   background-size: cover;
+}
